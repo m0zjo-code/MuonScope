@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2023-04-09T15:06:46.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="2jRBwtF8KmfKM7s_sgJS" version="21.1.5" type="device">
+  <diagram name="Page-1" id="7MyfWoPUGRlS_OX3vkjc">
+    <mxGraphModel dx="1834" dy="774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="itGTgkRLotvwbn1z5StY-26" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="190" width="680" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="itGTgkRLotvwbn1z5StY-2" target="itGTgkRLotvwbn1z5StY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="itGTgkRLotvwbn1z5StY-2" target="itGTgkRLotvwbn1z5StY-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-2" value="InfluxDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="250" y="500" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-3" value="&lt;div&gt;TinyFlux&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="430" y="390" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="itGTgkRLotvwbn1z5StY-4" target="itGTgkRLotvwbn1z5StY-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-4" value="&lt;div&gt;CosmicWatch &lt;br&gt;&lt;/div&gt;&lt;div&gt;Muon Detector&lt;/div&gt;&amp;nbsp;#0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="itGTgkRLotvwbn1z5StY-5" target="itGTgkRLotvwbn1z5StY-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-5" value="&lt;div&gt;CosmicWatch &lt;br&gt;&lt;/div&gt;&lt;div&gt;Muon Detector&lt;/div&gt;&amp;nbsp;#1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="itGTgkRLotvwbn1z5StY-6" target="itGTgkRLotvwbn1z5StY-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-6" value="&lt;div&gt;CosmicWatch &lt;br&gt;&lt;/div&gt;&lt;div&gt;Muon Detector&lt;/div&gt;&amp;nbsp;#N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="itGTgkRLotvwbn1z5StY-12" target="itGTgkRLotvwbn1z5StY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="itGTgkRLotvwbn1z5StY-12" target="itGTgkRLotvwbn1z5StY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-12" value="&lt;div&gt;MuonScope Archiving Service&lt;/div&gt;&lt;div&gt;(&lt;i&gt;Muon Data Ingestor&lt;/i&gt;)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="395" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="itGTgkRLotvwbn1z5StY-16" target="itGTgkRLotvwbn1z5StY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-16" value="&lt;div&gt;MQTT Broker&lt;/div&gt;(&lt;em&gt;Mosquitto&lt;/em&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-20" value="(Backup Database)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-21" value="(Primary Analysis Database)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="550" width="116" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-22" value="&lt;div&gt;DB Monitoring&lt;/div&gt;&lt;div&gt;(Grafana)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="570" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-23" value="Science User Access" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-27" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="790" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-28" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;u style=&quot;font-size: 18px;&quot;&gt;Muon Scope System&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="60" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="itGTgkRLotvwbn1z5StY-31" target="itGTgkRLotvwbn1z5StY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-31" value="&lt;div&gt;PC/Raspberry Pi/ESP32 &lt;br&gt;&lt;/div&gt;&lt;div&gt;(&lt;i&gt;Muon Traffic Generator&lt;/i&gt;)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="98" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="itGTgkRLotvwbn1z5StY-32" target="itGTgkRLotvwbn1z5StY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-32" value="&lt;div&gt;PC/Raspberry Pi/ESP32 &lt;br&gt;&lt;/div&gt;&lt;div&gt;(&lt;i&gt;Muon Traffic Generator&lt;/i&gt;)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="98" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="itGTgkRLotvwbn1z5StY-33" target="itGTgkRLotvwbn1z5StY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="itGTgkRLotvwbn1z5StY-33" value="&lt;div&gt;PC/Raspberry Pi/ESP32 &lt;br&gt;&lt;/div&gt;&lt;div&gt;(&lt;i&gt;Muon Traffic Generator&lt;/i&gt;)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="98" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
