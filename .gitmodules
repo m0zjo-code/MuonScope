@@ -1,0 +1,3 @@
+[submodule "muonTrafficService"]
+	path = muonTrafficService
+	url = https://github.com/m0zjo-code/muonTrafficService.git
